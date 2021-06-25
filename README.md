@@ -2,7 +2,7 @@
 
 i'm a frontend developer currently working with web applications.
 
-🔭 i'm currently working @ a car-sell platform: www.piscapisca.pt in charge of development of new features and some code refactor and maintenance.
+🔭 i'm currently working w/ Angular @ a car-sell platform: www.piscapisca.pt in charge of development of new features and some code refactor and maintenance.
 
 🌱 i'm currently learning new ways to improve my code.
 
