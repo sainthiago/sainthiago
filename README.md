@@ -1,6 +1,6 @@
 ### hi there 👋
 
-i'm a frontend developer who loves to learn and to work with great teams.
+i'm a frontend developer who loves to learn and work with great teams.
 
 🔭 i'm currently working w/ Angular @ a car-sell platform: www.piscapisca.pt in charge of development of new features and some code refactor and maintenance.
 
