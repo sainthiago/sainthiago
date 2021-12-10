@@ -2,9 +2,9 @@
 
 i'm a frontend developer who loves to learn and work with great teams.
 
-🔭 i'm currently working w/ Angular @ a car-sell platform: www.piscapisca.pt in charge of development of new features, code refactor and maintenance.
+🔭 i'm currently working w/react @mintbase, developing the new UI and doing all other things around the platform (https://www.mintbase.io/).
 
-🌱 i'm currently learning new ways to improve my code.
+🌱 i'm currently learning about crypto and web3.
 
 ⚡ fun fact: i started working as an outsystems developer and then i went to functional analyst. i only started with frontend after these adventures.
 
