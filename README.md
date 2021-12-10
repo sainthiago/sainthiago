@@ -6,7 +6,7 @@ i'm a frontend developer who loves to learn and work with great teams.
 
 🌱 i'm currently learning about crypto and web3.
 
-⚡ fun fact: i started working as an outsystems developer and then i went to functional analyst. i only started with frontend after these adventures.
+⚡ fun fact: i started working as an outsystems developer and then i went to functional analyst. i only started with frontend after these adventures. I also make music in my free time 🎸 (https://open.spotify.com/artist/2I5yjM2Yc82AaQuuMZqQnV)
 
 <!--
 **ruimrs/ruimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
