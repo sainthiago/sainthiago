@@ -8,11 +8,10 @@ i'm a frontend developer who loves to learn and work with great teams.
 
 ⚡ i also make music in my free time 🎸 (https://open.spotify.com/artist/2I5yjM2Yc82AaQuuMZqQnV)
 
-## Top Languages
+## stats
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sainthiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Some stats
 
 ![Rui Santiago Status](https://github-readme-stats.vercel.app/api?username=sainthiago&show_icons=true)
 <!--
