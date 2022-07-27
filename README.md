@@ -2,7 +2,7 @@
 
 i'm a frontend engineer who loves to learn and work with great teams.
 
-🔭 i'm currently working at @mintbase (https://www.mintbase.io/).
+🔭 i'm currently working at mintbase (https://www.mintbase.io/).
 
 🌱 i'm currently learning about decentralized web and webxr.
 
