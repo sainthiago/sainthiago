@@ -1,8 +1,8 @@
 ### hi there 👋
 
-i'm a frontend developer who loves to learn and work with great teams.
+i'm a frontend engineer who loves to learn and work with great teams.
 
-🔭 i'm currently working w/react @mintbase, developing the new UI and doing all other things around the platform (https://www.mintbase.io/).
+🔭 i'm currently working at @mintbase (https://www.mintbase.io/).
 
 🌱 i'm currently learning about decentralized web and webxr.
 
