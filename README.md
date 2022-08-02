@@ -10,7 +10,7 @@ i'm a frontend engineer who loves to learn and work with great teams.
 
 ## stats
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sainthiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Rui Santiago Status](https://github-readme-stats.vercel.app/api?username=sainthiago&show_icons=true)
+![Rui Santiago Status](https://github-readme-stats.vercel.app/api?username=sainthiago&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sainthiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **ruimrs/ruimrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
