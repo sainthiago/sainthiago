@@ -1,10 +1,8 @@
 ### hi there 👋
 
-i'm a frontend engineer who loves to learn and work with great teams.
+i'm a frontend engineer who loves to learn.
 
-🔭 i'm currently working at mintbase (https://www.mintbase.io/).
-
-🌱 i'm currently learning about decentralized web and webxr.
+🔭 i'm currently working at mintbase (https://www.mintbase.xyz/).
 
 ⚡ i also make music in my free time 🎸 (https://open.spotify.com/artist/2I5yjM2Yc82AaQuuMZqQnV)
 
